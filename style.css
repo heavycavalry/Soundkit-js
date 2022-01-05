@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Montserrat+Alternates&family=Poppins:wght@500&family=Sigmar+One&display=swap");
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+  font-size: 2rem;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1017%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1334.994%2c272.183C1354.839%2c271.264%2c1372.85%2c261.092%2c1382.905%2c243.958C1393.09%2c226.603%2c1394.824%2c204.989%2c1384.596%2c187.659C1374.52%2c170.586%2c1354.793%2c163.786%2c1334.994%2c162.779C1312.778%2c161.649%2c1287.99%2c163.512%2c1275.812%2c182.127C1262.763%2c202.073%2c1265.642%2c228.86%2c1278.732%2c248.779C1290.688%2c266.972%2c1313.247%2c273.19%2c1334.994%2c272.183' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1479.2909931285367 464.7063697060085L1374.953126929975 370.7601330074166 1281.006890231383 475.09799920597834 1385.3447564299447 569.0442359045703z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M276.32733073054715 269.81899291486513L406.304030434807 191.72111267140417 328.206150191346 61.74441296714434 198.22945048708618 139.8422932106053z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1197.095%2c375.911C1233.781%2c376.551%2c1260.961%2c346.542%2c1279.844%2c315.082C1299.467%2c282.388%2c1314.842%2c243.332%2c1296.848%2c209.714C1278.093%2c174.676%2c1236.766%2c158.11%2c1197.095%2c160.486C1161.134%2c162.64%2c1132.541%2c188.49%2c1116.093%2c220.541C1101.12%2c249.717%2c1104.037%2c283.202%2c1119.197%2c312.281C1135.809%2c344.146%2c1161.165%2c375.285%2c1197.095%2c375.911' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M567.4000942577727 253.49630096954814L557.0065319252052 327.45033969841177 673.1343711847843 306.06366383283114z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M690.825%2c676.963C732.821%2c675.18%2c763.033%2c640.061%2c781.927%2c602.513C798.729%2c569.122%2c799.264%2c530.468%2c780.934%2c497.891C762.227%2c464.646%2c728.966%2c439.954%2c690.825%2c440.606C653.623%2c441.242%2c625.502%2c469.259%2c605.895%2c500.881C584.828%2c534.858%2c567.893%2c574.855%2c585.261%2c610.863C604.593%2c650.942%2c646.367%2c678.851%2c690.825%2c676.963' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M679.152%2c76.164C693.462%2c76.286%2c708.798%2c74.48%2c716.863%2c62.658C725.87%2c49.454%2c726.582%2c31.955%2c718.853%2c17.965C710.877%2c3.527%2c695.646%2c-5.825%2c679.152%2c-5.605C663.008%2c-5.389%2c648.933%2c4.803%2c641.247%2c19.001C633.926%2c32.524%2c634.043%2c49.208%2c642.541%2c62.023C650.29%2c73.709%2c665.131%2c76.044%2c679.152%2c76.164' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1017'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  background-position: center;
+  background-size: cover;
+  color: orange;
+}
+
+.container {
+  margin: 5rem auto;
+  max-width: 70%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.container div {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.container div img {
+  padding: 2rem;
+  width: 5rem;
+}
+/*# sourceMappingURL=style.css.map */
