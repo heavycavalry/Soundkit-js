@@ -60,6 +60,11 @@ const sounds = [
   { sound: "assets/sounds/guitar.wav", icon: "assets/images/guitar.png" },
   { sound: "assets/sounds/cat.wav", icon: "assets/images/cat.png" },
   { sound: "assets/sounds/horse.wav", icon: "assets/images/horse.png" },
+  { sound: "assets/sounds/rooster.wav", icon: "assets/images/rooster.png" },
+  { sound: "assets/sounds/cricket.wav", icon: "assets/images/cricket.png" },
+  { sound: "assets/sounds/monkey.wav", icon: "assets/images/monkey.png" },
+  { sound: "assets/sounds/cow.wav", icon: "assets/images/cow.png" },
+  { sound: "assets/sounds/drum.wav", icon: "assets/images/drum.png" },
 ];
 const container = document.querySelector(".container");
 
@@ -83,8 +88,9 @@ function addColorEffects(element) {
 }
 function createButton(icon, sound) {
   let div = document.createElement("div");
-  div.className = "soundBtn";
+  div.className = "round-box";
   let image = document.createElement("img");
+  image.className = "icon";
   image.src = icon;
   div.appendChild(image);
   applyRandomColor(div);
