@@ -1,13 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Montserrat+Alternates&family=Poppins:wght@500&family=Sigmar+One&display=swap");
 body, html {
-  max-height: 100vh;
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
 }
 
 body {
+  margin: 5rem 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  margin: 0;
-  padding: 0;
   text-align: center;
   font-family: 'Sigmar One', cursive;
   font-size: 2rem;
@@ -17,10 +18,11 @@ body {
   background-position: center;
   background-size: cover;
   color: orange;
+  position: relative;
 }
 
 .container {
-  margin: 0 auto;
+  margin: 2rem auto;
   max-width: 70%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -30,6 +32,12 @@ body {
           justify-content: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+}
+
+@media (max-width: 860px) {
+  .container {
+    max-width: 90%;
+  }
 }
 
 .container .round-box {
@@ -52,5 +60,12 @@ body {
 .container .round-box .icon {
   padding: 1rem;
   width: 5rem;
+}
+
+.footer {
+  position: absolute;
+  font-size: 1rem;
+  bottom: -5rem;
+  left: 0;
 }
 /*# sourceMappingURL=style.css.map */

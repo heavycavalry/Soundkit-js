@@ -65,6 +65,7 @@ const sounds = [
   { sound: "assets/sounds/monkey.wav", icon: "assets/images/monkey.png" },
   { sound: "assets/sounds/cow.wav", icon: "assets/images/cow.png" },
   { sound: "assets/sounds/drum.wav", icon: "assets/images/drum.png" },
+  { sound: "assets/sounds/clap.wav", icon: "assets/images/clap.png" },
 ];
 const container = document.querySelector(".container");
 
